@@ -8,6 +8,15 @@ Organization-level configuration for the [chemistry](https://github.com/chemistr
 |------|---------|
 | `profile/README.md` | Organization profile shown on [github.com/chemistry](https://github.com/chemistry) |
 
+## Pinned Repositories
+
+| Repository | Description | Language |
+|------------|-------------|----------|
+| **[crystallography.io](https://github.com/chemistry/crystallography.io)** | Crystal Structure Search | TypeScript |
+| **[chemical-libraries](https://github.com/chemistry/chemical-libraries)** | Common Chemical Libraries | TypeScript |
+| **[molpad](https://github.com/chemistry/molpad)** | Simple Molecule Editor | TypeScript |
+| **[crystalview](https://github.com/chemistry/crystalview)** | Crystal Structure Visualization | TypeScript |
+
 ## Packages
 
 | Package | Description | npm |
